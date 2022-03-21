@@ -1,0 +1,7 @@
+Fonte: https://www.alura.com.br/artigos/como-conectar-o-google-colaboratory-ao-github
+
+Primeiro passo: Criar um repositório e escrever o README;
+
+Segundo passo: Salvar o notebook do Google Colab no GitHub: 
+Para fazer isso é necessário acessar o notebook que deseja adicionar e executar todas as suas células para salvar qualquer modificação que tenha sido realizada.
+Após, na barra de ferramentas do Colab, você pode acessar Arquivos > Salvar uma cópia no GitHub.
